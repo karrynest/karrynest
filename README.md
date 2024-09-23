@@ -25,7 +25,7 @@ I won the [CCL 2023 Best Poster Award](http://cips-cl.org/?p=87826) and the [Hua
 
 More details are shown at [my personal homepage](https://karrynest.github.io).
 
-- ``ICLR 2021`` [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558), **Yi Ren**, Chenxu Hu, Xu Tan, et al.
-- ``NeurIPS 2019`` [FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf), **Yi Ren**, Yangjun Ruan, Xu Tan, et al.
-- `ICLR 2024` [Mega-TTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](https://openreview.net/forum?id=mvMI3N4AvD), Ziyue Jiang, Jinglin Liu, **Yi Ren**, et al. 
-- ``AAAI 2022`` [DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446), Jinglin Liu, Chengxi Li, **Yi Ren**, et al. 
+- ``arXiv Preprint`` [An Adaptive and Momental Bound Method for Stochastic Learning](https://arxiv.org/abs/1910.12249), **Jianbang Ding**, Xuancheng Ren, Ruixuan Luo, Xu Sun
+- ``NLPCC 2023`` [An Adaptive Learning Method for Solving the Extreme Learning Rate Problem of Transformer](https://link.springer.com/chapter/10.1007/978-3-031-44693-1_29), **Jianbang Ding**, Xuancheng Ren, Ruixuan Luo
+- ``CCL 2023`` [Adder Encoder for Pre-trained Language Model](https://aclanthology.org/2023.ccl-1.76.pdf), **Jianbang Ding**, Suiyun Zhang 
+- ``IJCNN 2024`` [Disfluency Detection for Real-World Scenarios](https://ieeexplore.ieee.org/document/10650005), **Jianbang Ding**, Suiyun Zhang, Dandan Tu 
